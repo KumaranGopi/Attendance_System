@@ -8,8 +8,8 @@ This project is about simple Attendace management system where teacher will be a
 
 ## To do
 * Git clone this repository to server root directory
-* Go to "header/db.php". Change the username and password
-* Import the ".sql" file into your MySQL server
+* Go to "__header/db.php__". Change the username and password
+* Import the "__Attendance_LAMP.sql__" file into your MySQL server
 * Now you are ready to run
 
 ## Credits
